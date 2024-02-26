@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "812804981607",
+    "project_id": "notification-f9cc0",
+    "storage_bucket": "notification-f9cc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812804981607:android:4e07a6014d930be65525c2",
+        "android_client_info": {
+          "package_name": "com.venky.notify_user_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812804981607-44mn7v5j545og8viapm1uumn9lrrnch7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMHu49rmdTMLPjdBlrjBdjJ5GGksUwm4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812804981607-44mn7v5j545og8viapm1uumn9lrrnch7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
